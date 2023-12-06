@@ -10,4 +10,5 @@ Currently, two official plugins are available:
 <hr style="border:2px solid gray">
 
 Screenshoot
+
 ![banner-travlein](https://github.com/raflisalamudin/travelin/assets/91868371/4f4341dd-b243-4074-8004-8777b8a4e8c0)
