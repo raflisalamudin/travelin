@@ -11,4 +11,4 @@ Currently, two official plugins are available:
 
 Screenshoot
 
-![banner-travlein](https://github.com/raflisalamudin/travelin/assets/91868371/4f4341dd-b243-4074-8004-8777b8a4e8c0)
+![banner-travlein](dist/home-travelin.png)
