@@ -11,4 +11,4 @@ Currently, two official plugins are available:
 
 Screenshoot
 
-![banner-travlein](dist/home-travelin.png)
+![banner-travlein](src/home-travelin.png)
